@@ -1,0 +1,130 @@
+﻿<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Our Little Love Story - First Anniversary</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,400&family=Poppins:ital,wght@0,300;0,400;0,500;1,400&family=Allura&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- Floating Hearts Container -->
+  <div id="floating-hearts" aria-hidden="true"></div>
+  
+  <!-- Flower Petals Container -->
+  <div id="flower-petals" aria-hidden="true"></div>
+
+  <!-- Opening Page -->
+  <section id="opening-page" class="opening-page">
+    <div class="container">
+      <div class="flower-decor">
+        <div class="flower" style="--delay: 0s">ðŸŒ¸</div>
+        <div class="flower" style="--delay: 1.5s">ðŸŒ¸</div>
+        <div class="flower" style="--delay: 3s">ðŸŒ¸</div>
+        <div class="flower" style="--delay: 4.5s">ðŸŒ¸</div>
+        <div class="flower" style="--delay: 6s">ðŸŒ¸</div>
+      </div>
+      <h2 class="small-text">A LITTLE SOMETHING FOR YOU</h2>
+      <h1 class="main-title">Happy First Anniversary</h1>
+      <p class="sub-title">One year, countless memories, and a story worth keeping</p>
+      <p class="dates">25 November 2025 â€” 25 November 2026</p>
+      <button class="open-gift-btn">Open Your Gift</button>
+    </div>
+  </section>
+
+  <!-- Hero Section -->
+  <section id="hero" class="hero-section">
+    <div class="container">
+      <h2 class="hero-title">OUR LITTLE LOVE STORY</h2>
+      <h3 class="hero-sub">One Year With You</h3>
+      <p class="hero-quote">"and somehow, every little moment became something beautiful."</p>
+      <div class="anniversary-date">
+        <span>25 November 2025</span>
+        <span>25 November 2026</span>
+      </div>
+      <div class="small-flower-decoration">
+        <span>ðŸŒ¸</span>
+        <span>ðŸŒ¸</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Our Story Section -->
+  <section id="our-story" class="our-story-section">
+    <div class="container">
+      <div>
+        <span class="story-dates">
+          <strong>25 November 2025</strong><br>
+          <strong>15.30 WIB</strong>
+        </span>
+        <p class="story-started">It started with a moment, and slowly became a story filled with memories.</p>
+      </div>
+      <div class="timeline-container">
+        <div class="timeline-line"></div>
+        <div class="timeline-point"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- A Letter For You Section -->
+  <section id="letter" class="letter-section">
+    <div class="container">
+      <div class="letter-wrapper">
+        <h2 class="letter-title">A Letter From Sam</h2>
+        <p class="letter-subtitle">A little letter, written from the deepest part of my heart.</p>
+        <div class="letter-content" id="letter-content">
+          [HAPPYY ANNIVERSARY 1 TAHUN, BABEEEEðŸ¤ðŸ¤ðŸ¤ðŸ¤ðŸ¤
+
+nggak terasa yaaa, hari ini tepat satu tahun sejak kita memulai semuanya. sejak 25 november 2025, kita mulai menulis cerita yang sampai sekarang masih terus berjalan. rasanya baru kemarin kita memulai hubungan ini, saling mengenal lebih jauh, saling memahami, dan perlahan menjadi bagian dari kehidupan satu sama lain. ternyata waktu berjalan begitu cepat, dan sekarang kita sudah sampai di titik iniii. sam mau bilang terima kasih banyak karena sudah hadir di kehidupan sammm. terima kasih karena sudah memberikan warna baru dalam hari-hari sam. terima kasih untuk setiap perhatian kecil, setiap kabar yang kamu berikan, setiap waktu yang kamu luangkan, setiap cerita yang kamu bagikan, dan setiap kebahagiaan sederhana yang kita ciptakan bersamaaa. mungkin buat orang lain hal-hal itu terlihat biasa saja, tetapi buat sam semuanya punya arti tersendiriii. selama satu tahun ini, pasti banyak hal yang sudah kita lewati. ada hari-hari yang menyenangkan, ada tawa, ada cerita lucu, ada momen yang mungkin nggak akan pernah kita lupakan. tetapi sam juga tahu bahwa hubungan kita nggak selalu berjalan sesuai harapan. terkadang ada perbedaan pendapat, kesalahpahaman, rasa kecewa, dan keadaan yang membuat kita harus belajar lebih banyak tentang satu sama lainnn. sam sadar kalau selama ini sam juga masih jauh dari kata sempurnaaa. masih banyak sikap sam yang perlu diperbaiki, masih banyak perkata yang mungkin tanpa sadar menyakiti perasaan kamu, dan masih banyak hal yang harus sam pelajari supaya bisa menjadi pasangan yang lebih baik. untuk semua kekurangan sam, untuk semua kesalahan yang pernah sam lakukan, dan untuk setiap waktu ketika sam belum bisa memahami kamu dengan baik, sam minta maaf yaaa. sam nggak mau hanya menjadi seseorang yang hadir ketika semuanya terasa menyenangkan. sam ingin belajar menjadi seseorang yang juga bisa menghargai kamu ketika keadaan sedang nggak mudah. sam ingin kita sama-sama belajar mendengarkan, bukan hanya ingin didengarkan. belajar memahami, bukan hanya ingin dipahami. belajar mengalah ketika memang diperlukan, dan belajar menyelesaikan masalah tanpa harus saling menyakiti satu sama lainnn. sam juga ingin kamu tahu kalau sam benar-benar menghargai keberadaan kamu. sam menghargai setiap usaha yang sudah kamu berikan untuk hubungan ini. sam menghargai waktu, perhatian, kesabaran, dan semua hal yang mungkin selama ini nggak selalu sempat sam ungkapkan. jangan pernah berpikir bahwa hal-hal kecil yang kamu lakukan nggak berarti buat sam, karena justru dari hal-hal sederhana itulah sam bisa merasakan betapa berharganya kehadiran seseorang dalam hidup sammm. semoga ke depannya kita bisa menjadi dua orang yang semakin dewasa dalam menjalani hubungan. semoga kita bisa terus saling mendukung dalam mengejar impian masing-masing, saling memberikan semangat ketika salah satu sedang merasa lelah, dan saling mengingatkan ketika ada yang mulai melupakan hal-hal baik. sam ingin melihat kamu tumbuh menjadi versi terbaik dari diri kamu, dan sam juga ingin terus memperbaiki diri supaya bisa menjadi pribadi yang lebih baik untuk kamu dan hubungan iniii. sam nggak bisa menjanjikan bahwa setiap hari akan selalu indah. sam juga nggak bisa menjanjikan bahwa kita nggak akan pernah menghadapi masalah. tetapi sam berharap kita selalu punya keinginan untuk saling memahami dan menyelesaikan setiap persoalan dengan baik. jangan sampai hal-hal kecil membuat kita melupakan semua hal baik yang sudah kita bangun bersamaaa. terima kasih sudah menjadi bagian dari perjalanan satu tahun ini. terima kasih sudah mengenal sam dengan segala kelebihan dan kekurangan yang sam punya. terima kasih karena sudah memberikan kesempatan untuk saling mengenal, saling belajar, dan menciptakan begitu banyak cerita. sam mungkin nggak selalu pandai mengungkapkan perasaan melalui kata-kata, tetapi percayalah, kehadiran kamu adalah salah satu hal yang sangat sam hargai dalam perjalanan hidup sammm. kalau boleh berharap, sam ingin masih ada banyak tanggal 25 november berikutnya yang bisa kita rayakan. masih banyak cerita yang ingin sam dengar dari kamu, masih banyak tempat yang ingin kita kunjungi, masih banyak hal sederhana yang ingin kita lakukan bersama, dan masih banyak kenangan yang ingin kita ciptakan. sam ingin suatu hari nanti kita bisa melihat kembali perjalanan ini dan tersenyum karena ternyata kita sudah melewati begitu banyak hal bersamaaa. semoga hubungan ini selalu dipenuhi hal-hal baik. semoga kita diberikan kesabaran untuk menghadapi setiap keadaan, diberikan hati yang luas untuk saling memaafkan, dan diberikan kekuatan untuk terus menjadi lebih baik. semoga apa pun yang sedang kita perjuangkan, kita tetap bisa saling memberikan dukungan dan menjadi tempat yang nyaman untuk berbagi cerita satu sama lainnn. sekali lagi, selamat anniversary 1 tahun, sayanggg. terima kasih sudah menjadi bagian dari cerita hidup sam selama satu tahun ini. sam bersyukur karena kita sudah sampai sejauh ini. satu tahun mungkin bukan waktu yang paling lama, tetapi ada banyak cerita, pelajaran, dan kenangan yang begitu berarti di dalamnyaaa. jangan bosan untuk terus mengenal sam, yaaa. karena sam pun masih ingin mengenal kamu lebih jauh, memahami banyak hal tentang kamu, mengetahui cerita-cerita kecil dalam hari-hari kamu, dan belajar mencintai dengan cara yang lebih baik dari hari ke hariii. sam sayang kamu. hari ini, besok, dan semoga masih banyak hari setelahnyaaa. terima kasih sudah menjadi bagian dari satu tahun yang begitu berarti buat sammm, samm always bersamaaa kamuuu detik ini sampai selamanya, i lovee youuuu babeee, lovee youuuu really loveee youuuu ðŸ¤ðŸ¤ðŸ¤ðŸ¤ðŸ¤]
+        </div>
+        <button class="read-again-btn">Read Again</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Little Memories Section -->
+  <section id="memories" class="memories-section">
+    <div class="container">
+      <h2 class="section-title">LITTLE MEMORIES</h2>
+      <p class="section-subtitle">A collection of precious moments</p>
+      <div class="gallery-grid">
+        <div class="photo-slot" id="slot1">
+          <div class="photo-image"> <img src="assets/images/foto1.jpg" alt="Moment 1" class="photo-img"></div>
+        </div>
+        <div class="photo-slot" id="slot2">
+          <div class="photo-image"> <img src="assets/images/foto2.jpg" alt="Moment 2" class="photo-img"></div>
+        </div>
+        <div class="photo-slot" id="slot3">
+          <div class="photo-image"> <img src="assets/images/foto3.jpg" alt="Moment 3" class="photo-img"></div>
+        </div>
+        <div class="photo-slot" id="slot4">
+          <div class="photo-image"> <img src="assets/images/foto4.jpg" alt="Moment 4" class="photo-img"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Special Message Section -->
+  <section id="special-message" class="special-message-section">
+    <div class="container">
+      <p class="message-text">one year down, and so many beautiful moments still waiting for us.</p>
+      <div class="heart-decoration">â¤ï¸ â¤ï¸ â¤ï¸</div>
+    </div>
+  </section>
+
+  <!-- Final Section -->
+  <section id="final" class="final-section">
+    <div class="container">
+      <p class="final-text">Thank You For Being My Favorite Story.</p>
+      <p class="final-with-love">With love,</p>
+      <p class="final-name">Babeeee ðŸ¤ðŸ¤</p>
+      <p class="final-date">25 November 2026</p>
+      <button class="read-again-final-btn">Read Our Letter Again</button>
+    </div>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
